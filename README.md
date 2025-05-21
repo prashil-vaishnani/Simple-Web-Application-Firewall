@@ -134,7 +134,3 @@ Too many requests from this IP, please try again later.
 * Request logging to a file
 
 ---
-
-## 📄 License
-
-MIT License — © 2025 Prashil Vaishnani
