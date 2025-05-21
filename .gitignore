@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+
+# VS Code settings
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+
+# Local config
+*.local
+.env
+.env.*
+
+node_modules/
